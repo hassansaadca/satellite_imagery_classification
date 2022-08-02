@@ -29,7 +29,7 @@ The TensorFlow model will run inference on the selected area and create a new im
   <img src="images/satellite_image.png" width="400" />
   <img src="images/classified_image.png" width="400" />
 <p>
-
+<br></br>
 The API will also return a JSON object representing the area (in square meters) of each type of landcover in the polygon.
 
 <img src="images/json_output.png" width="700" />
