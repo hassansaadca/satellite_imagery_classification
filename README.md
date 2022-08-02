@@ -17,7 +17,7 @@ Our team focused on a use case closer to home. We calculated lawn area in Southe
 
 ### Data and Methodology:
 
-A user can start by selecting a customer polygon that they're looking to analyze.
+A user can start by selecting a custom polygon that they're looking to analyze.
 
 <img src="images/polygon.png" width="700" />
 <br></br>
